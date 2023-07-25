@@ -1,4 +1,4 @@
-# Scraping and Ranking with GPT Workshop
+# Scraping and Ranking with GPT 
 
 
 The code scrapes and ranks job descriptions according to the candidate background.
